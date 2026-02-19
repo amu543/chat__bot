@@ -1,4 +1,0 @@
-{"price": 200.0, "vat": 10.0, "discount": 10.0, "total": 198.0}
-{"price": 100.0, "vat": 10.0, "discount": 10.0, "total": 99.0}
-{"price": 200.0, "vat": 10.0, "discount": 10.0, "total": 198.0}
-{"price": 300.0, "vat": 10.0, "discount": 10.0, "total": 297.0}
